@@ -1,19 +1,16 @@
 # third_project
 
-## Project setup
-```
-npm install
-```
+## About the Project 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+building a website forum using vue.js 
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### knowledge base 
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Methods. V-ON
+Vue devtools
+v-for
+two way binding 
+modifiers: stop, prevent 
+props
+v-model
+
